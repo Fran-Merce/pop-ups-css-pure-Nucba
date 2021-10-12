@@ -67,7 +67,7 @@ section {
   text-align: center;
 }
 
-.card .x {
+.card .close {
   position: absolute;
   top: 0;
   right: 0;
